@@ -1,1 +1,1 @@
-{"USD": 1, "GBP": 2, "EURE": 3, "ILS": 5}
+{"base": "USD", "rates": {"USD": 1, "GBP": 2, "EUR": 3, "EURO": 3, "ILS": 5}}
